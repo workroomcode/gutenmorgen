@@ -1,0 +1,19 @@
+{
+  "name": "pro-page-builder",
+  "version": "1.0.0",
+  "description": "Propeller Page Builder for WordPress",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "keywords": [
+    "page-builder",
+    "builder"
+  ],
+  "author": "deniscoder",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-livereload": "^4.0.0"
+  }
+}
