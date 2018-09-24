@@ -13,7 +13,9 @@
   "author": "deniscoder",
   "license": "ISC",
   "devDependencies": {
+    "bootstrap": "^4.1.3",
     "gulp": "^3.9.1",
     "gulp-livereload": "^4.0.0"
-  }
+  },
+  "dependencies": {}
 }
